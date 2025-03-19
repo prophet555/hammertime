@@ -3,7 +3,7 @@ title: Saul's beginning
 description: When Samuel met Saul
 tags:
   - Scripture
-pubDate: 2025-03-20
+pubDate: 2025-03-18
 ---
 
 # 1 Samuel 9: Commentary

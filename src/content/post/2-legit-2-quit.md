@@ -4,7 +4,7 @@ description: What started it all
 tags:
   - Journaling
   - Music
-pubDate: 2025-03-19
+pubDate: 2025-03-17
 ---
 
 If you have to ask, you'll never know.
