@@ -35,7 +35,7 @@ export async function GET(context) {
     }));
 
   const rssOptions = {
-    stylesheet: '/pretty-feed-v3.xsl',
+    stylesheet: '/hammertime/pretty-feed-v3.xsl',
     title: slateConfig.title,
     description: slateConfig.description,
     site: context.site,
