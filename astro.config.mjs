@@ -24,7 +24,8 @@ function computedIntegrations() {
 
 function generateAstroConfigure() {
   const astroConfig = {
-    site: slateConfig.site,
+    site: 'https://prophet555.github.io',
+    base: '/hammertime',
     integrations: computedIntegrations(),
     markdown: {
       remarkPlugins: [

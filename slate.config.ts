@@ -5,8 +5,8 @@ import { defineConfig } from './src/helpers/config-helper';
 
 export default defineConfig({
   lang: 'en-US',
-  site: 'https://slate-blog-demo.vercel.app',
-  avatar: '/H-avatar.jpg',
+  site: 'https://prophet555.github.io/hammertime',
+  avatar: '/hammertime/H-avatar.jpg',
   title: 'Hamm Blog',
   description: '2 Legit 2 Quit - Hammertime',
   lastModified: true,
