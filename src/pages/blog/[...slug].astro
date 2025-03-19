@@ -15,7 +15,8 @@ import '@/assets/style/blog.css';
 
 export async function getStaticPaths() {
   const postEntries = await getCollection('post', ({ data }) => {
-    return import.meta.env.DEV || data.draft !== true;
+    // Only filter out drafts in production, allow all dates
+    return import.meta.env.DEV || !data.draft;
   });
 
   return postEntries.map((post) => ({

@@ -7,7 +7,8 @@ import PageLayout from '@/components/layouts/PageLayout.astro';
 import slateConfig from '~@/slate.config';
 
 const postCollection = await getCollection('post', ({ data }) => {
-  return import.meta.env.DEV || data.draft !== true;
+  // Only filter out drafts in production, allow all dates
+  return import.meta.env.DEV || !data.draft;
 });
 
 const tagCounts = postCollection.reduce<Record<string, number>>(
