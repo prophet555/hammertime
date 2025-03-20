@@ -1,5 +1,5 @@
 ---
-title: tanking-note-apps
+title: Ranking note taking apps
 description: daily journal
 tags:
   - software_review
