@@ -12,3 +12,5 @@ Why put myself through the toture of learning a note taking app 10x harder than 
 
 Some of the shortcuts that I learnt, to add to all the shortcuts learnt for every other app.
 sp f f , sp t h , sp c h, :qall, :wqall , x p , ctrl w w , :vsp  
+
+Added obsidian.nvim and the UI looks amazing but having issues making the auto-suggestions play nice and not get error messages.
