@@ -1,5 +1,5 @@
 ---
-title: neovim-is-really-hard
+title: neovim for those bored of obsidian
 description: another note taking experience
 tags:
   - software_review
