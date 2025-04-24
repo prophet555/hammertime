@@ -4,7 +4,7 @@ description: daily journal
 tags:
   - journal
   - kids
-pubDate: 2026-03-19
+pubDate: 2025-03-19
 draft: false
 ---
 Taught my 10 year old and 8 year old sons to setup git.  Oldest son, managed to get the astro template working locally but had some struggles getting the ssh key to connect with his git.  After the edits we were stuck at git push origin.

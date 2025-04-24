@@ -3,7 +3,7 @@ title: neovim for those bored of obsidian
 description: another note taking experience
 tags:
   - software_review
-pubDate: 2026-03-25
+pubDate: 2025-03-25
 draft: false
 ---
 Just spent the last two days, about 5 hours learning neovim.  It's like trying to fly a plane, which is a terrible analogy since I never ever tried to well, fly a plane.

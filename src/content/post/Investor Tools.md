@@ -3,7 +3,7 @@ title: tools of the best investor
 description: daily journal
 tags:
   - investing
-pubDate: 2026-03-21
+pubDate: 2025-03-21
 draft: false
 ---
 # tools for the best investor
