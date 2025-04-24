@@ -3,7 +3,7 @@ title: Passion of the Christ
 description: First time watching classic
 tags:
   - movie_review
-pubDate: 2025-03-18
+pubDate: 2025-04-20
 ---
 
 Watched it for the first time this Easter weekend.
