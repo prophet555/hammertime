@@ -1,5 +1,5 @@
 ---
-title: popular movie earnings by montly gross earnings
+title: popular movie earnings by monthly gross earnings
 description: movie recommendation by gross take
 tags:
   - movie
